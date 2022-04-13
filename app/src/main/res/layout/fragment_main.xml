@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainFragment"
+    android:background="@drawable/background_try_2"
+    style="@style/Theme.Material3.Dark">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#90000000"
+        tools:layout_editor_absoluteX="-21dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/btn_capture_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:text="Capture Image"
+        android:textColor="@color/white"
+        android:backgroundTint="#1D3CCC"
+        app:layout_constraintEnd_toStartOf="@+id/btn_load_image"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="256dp"
+        android:layout_height="256dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="72dp"
+        android:src="@drawable/ic_camera_1"
+        android:background="@drawable/image_border"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_load_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Browse Image"
+        android:textColor="@color/white"
+        android:backgroundTint="#1D3CCC"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_capture_image"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/btn_capture_image"
+        app:layout_constraintTop_toTopOf="@+id/btn_capture_image" />
+
+    <LinearLayout
+        android:id="@+id/linlayoutput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="40dp"
+        android:background="#FFFFFFFF"
+        android:backgroundTint="#1D3CCC"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:paddingLeft="20dp"
+        app:layout_constraintStart_toStartOf="@id/btn_capture_image"
+        app:layout_constraintTop_toBottomOf="@id/btn_capture_image">
+
+        <TextView
+            android:id="@+id/textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Output :- "
+            android:textColor="#FFFFFF"
+            android:textSize="27sp" />
+
+        <TextView
+            android:id="@+id/tv_output"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="@string/Result_here"
+            android:textColor="#FFFFFF"
+            android:textSize="23sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="25dp"
+        android:text="Click on the result text to search on Google"
+        android:textColor="@android:color/primary_text_dark"
+        android:textSize="19.5sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/linlayoutput" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

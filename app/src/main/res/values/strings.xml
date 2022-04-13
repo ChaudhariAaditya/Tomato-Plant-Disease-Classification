@@ -1,0 +1,218 @@
+<resources>
+    <string name="app_name">TLD Classification</string>
+
+    <!--String for menulist in navigation drawer -->
+    <string name="information">Information</string>
+    <string name="aboutus">AboutUs</string>
+    <string name="navigation_open">Open Navigation Drawer</string>
+    <string name="navigation_close">Close Navigation Drawer</string>
+    <string name="Result_here"><u>Result Here</u></string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="BacterialSpot"><br>Bacterial spot can occur wherever tomatoes are grown, but is found most frequently in warm, wet climates, as well as in greenhouses.
+        The pathogens enter plants through natural openings (e.g., stomates), as well as through wounds.  Disease development is favored by warm (75° to 86°F), wet weather. \n\n</br>
+
+        <br>टमाटर जहां भी उगाए जाते हैं, वहां बैक्टीरियल स्पॉट हो सकते हैं, लेकिन यह अक्सर गर्म, गीली जलवायु के साथ-साथ ग्रीनहाउस में भी पाए जाते हैं।
+    रोगजनक प्राकृतिक छिद्रों (जैसे, स्टोमेट्स) के साथ-साथ घावों के माध्यम से पौधों में प्रवेश करते हैं। रोग का विकास गर्म (75° से 86°F), आर्द्र मौसम के अनुकूल होता है। \n\n</br>
+
+        <br>टोमॅटो जेथे पिकतात तेथे जिवाणूजन्य ठिपके उद्भवू शकतात, परंतु बहुतेकदा उबदार, ओल्या हवामानात तसेच हरितगृहांमध्ये आढळतात.
+    रोगजनक वनस्पतींमध्ये नैसर्गिक छिद्रातून (उदा. स्टोमेट्स), तसेच जखमांमधून प्रवेश करतात. रोगाच्या विकासास उबदार (७५° ते ८६°फॅ), ओले हवामान अनुकूल आहे. \n\n</br>
+
+        <br>જ્યાં પણ ટામેટાં ઉગાડવામાં આવે છે ત્યાં બેક્ટેરિયલ સ્પોટ થઈ શકે છે, પરંતુ તે ગરમ, ભીની આબોહવામાં તેમજ ગ્રીનહાઉસમાં મોટાભાગે જોવા મળે છે.
+    રોગાણુઓ કુદરતી છિદ્રો (દા.ત., સ્ટોમેટ) તેમજ ઘા દ્વારા છોડમાં પ્રવેશ કરે છે. રોગનો વિકાસ ગરમ (75° થી 86°F), ભીનું હવામાન દ્વારા તરફેણ કરે છે. \n\n</br>
+    </string>
+
+    <string name="TomatoEarlyBlight"><br>Early blight of tomato is caused primarily by the fungus Alternaria linariae (=A. tomatophila; formerly known as A. solani),
+        other species of Alternaria may be isolated from lesions. \n\n</br>
+
+        <br>टमाटर का प्रारंभिक तुड़ाई मुख्य रूप से कवक अल्टरनेरिया लिनारिया (= ए। टोमैटोफिला; पहले ए। सोलानी के रूप में जाना जाता है) के कारण होता है।
+        अल्टरनेरिया की अन्य प्रजातियों को घावों से अलग किया जा सकता है| \n\n</br>
+
+        <br>टोमॅटोचा लवकर होणारा प्रकोप प्रामुख्याने अल्टरनेरिया लिनेरिया (=A. टोमॅटोफिला; पूर्वी ए. सोलानी म्हणून ओळखला जाणारा) या बुरशीमुळे होतो.
+        अल्टरनेरियाच्या इतर प्रजाती जखमांपासून वेगळ्या केल्या जाऊ शकतात. \n\n</br>
+
+        <br>ટામેટાંનો પ્રારંભિક ફૂગ મુખ્યત્વે અલ્ટરનેરિયા લિનારિયા (=A. ટોમેટોફિલા; અગાઉ એ. સોલાની તરીકે ઓળખાતું) ફૂગ દ્વારા થાય છે.
+        અલ્ટરનેરિયાની અન્ય પ્રજાતિઓ જખમથી અલગ થઈ શકે છે. \n\n</br>
+
+    </string>
+
+    <string name="TomatoLateBlight"><br>Late blight is a potentially devastating disease of tomato and potato, infecting leaves, stems, tomato fruit, and potato tubers.
+        The disease spreads quickly in fields and can result in total crop failure if untreated.
+        Late blight does not occur every year in Minnesota. \n\n</br>
+
+        <br>लेट ब्लाइट टमाटर और आलू की संभावित विनाशकारी बीमारी है, जो पत्तियों, तनों, टमाटर के फल और आलू के कंदों को संक्रमित करती है।
+        यह रोग खेतों में तेजी से फैलता है और यदि उपचार न किया जाए तो फसल पूरी तरह से बर्बाद हो सकती है।
+        लेट ब्लाइट हर साल मिनेसोटा में नहीं होता है। \n\n</br>
+
+        <br>उशीरा अनिष्ट परिणाम हा टोमॅटो आणि बटाट्याचा संभाव्य विनाशकारी रोग आहे, जो पाने, देठ, टोमॅटोची फळे आणि बटाट्याच्या कंदांना संक्रमित करतो.
+        हा रोग शेतात लवकर पसरतो आणि उपचार न केल्यास संपूर्ण पीक निकामी होऊ शकते.
+        मिनेसोटामध्ये दरवर्षी लेट ब्लाइट होत नाही. \n\n</br>
+
+        <br>લેટ બ્લાઈટ એ ટામેટા અને બટાકાનો સંભવિત વિનાશક રોગ છે, જે પાંદડા, દાંડી, ટમેટાના ફળ અને બટાકાના કંદને ચેપ લગાડે છે.
+        આ રોગ ખેતરોમાં ઝડપથી ફેલાય છે અને જો સારવાર ન કરવામાં આવે તો પાકની સંપૂર્ણ નિષ્ફળતા થઈ શકે છે.
+        મિનેસોટામાં દર વર્ષે લેટ બ્લાઈટ થતો નથી. \n\n</br>
+    </string>
+
+    <string name="TomatoLeafMold"><br>Tomato leaf mold is a fungal disease that can develop when there are extended periods of leaf wetness and the relative humidity is high (greater than 85 percent).
+        Due to this moisture requirement, the disease is seen primarily in hoophouses and greenhouses. \n\n</br>
+
+        <br>टमाटर लीफ मोल्ड एक कवक रोग है जो तब विकसित हो सकता है जब पत्ती के गीलेपन की विस्तारित अवधि होती है और सापेक्षिक आर्द्रता अधिक होती है (85 प्रतिशत से अधिक)।
+        नमी की इस आवश्यकता के कारण, रोग मुख्य रूप से हूपहाउस और ग्रीनहाउस में देखा जाता है। \n\n</br>
+
+        <br>टोमॅटो लीफ मोल्ड हा एक बुरशीजन्य रोग आहे जो पानांच्या ओलेपणाचा विस्तारित कालावधी आणि सापेक्ष आर्द्रता जास्त (८५ टक्के पेक्षा जास्त) असल्यास विकसित होऊ शकतो.
+        या आर्द्रतेच्या आवश्यकतेमुळे, हा रोग प्रामुख्याने हुपहाऊस आणि हरितगृहांमध्ये दिसून येतो. \n\n</br>
+
+        <br>ટામેટા લીફ મોલ્ડ એ ફંગલ રોગ છે જે વિકસી શકે છે જ્યારે પાંદડાની ભીનાશ લાંબા સમય સુધી હોય અને સંબંધિત ભેજ વધારે હોય (85 ટકાથી વધુ).
+        આ ભેજની જરૂરિયાતને લીધે, આ રોગ મુખ્યત્વે હૂપહાઉસ અને ગ્રીનહાઉસમાં જોવા મળે છે. \n\n</br>
+    </string>
+
+    <string name="SeptoriaLeafSpot"><br>Septoria leaf spot is caused by a fungus, Septoria lycopersici.
+        It is one of the most destructive diseases of tomato foliage and is particularly severe in areas where wet, humid weather persists for extended periods.
+        Septoria leaf spot usually appears on the lower leaves after the first fruit sets. \n\n</br>
+
+        <br>सेप्टोरिया लीफ स्पॉट एक कवक, सेप्टोरिया लाइकोपर्सिसी के कारण होता है।
+        यह टमाटर के पत्तों की सबसे विनाशकारी बीमारियों में से एक है और उन क्षेत्रों में विशेष रूप से गंभीर है जहां गीला, आर्द्र मौसम लंबे समय तक बना रहता है।
+        सेप्टोरिया लीफ स्पॉट आमतौर पर पहले फलों के सेट होने के बाद निचली पत्तियों पर दिखाई देता है। \n\n</br>
+
+        <br>सेप्टोरिया पानांचे डाग सेप्टोरिया लाइकोपेर्सिसी या बुरशीमुळे होते.
+        हा टोमॅटोच्या पर्णसंभारातील सर्वात विनाशकारी रोगांपैकी एक आहे आणि ज्या भागात ओले, दमट हवामान दीर्घकाळ टिकून राहते अशा ठिकाणी तो विशेषतः गंभीर असतो.
+        सेप्टोरिया पानावर डाग सामान्यतः पहिल्या फळाच्या सेटनंतर खालच्या पानांवर दिसतात. \n\n</br>
+
+        <br>સેપ્ટોરિયા લીફ સ્પોટ ફૂગ, સેપ્ટોરિયા લાઇકોપર્સીસી દ્વારા થાય છે.
+        તે ટામેટાંના પર્ણસમૂહના સૌથી વિનાશક રોગોમાંનો એક છે અને ખાસ કરીને એવા વિસ્તારોમાં ગંભીર છે જ્યાં ભીનું, ભેજવાળું હવામાન લાંબા સમય સુધી ચાલુ રહે છે.
+        પ્રથમ ફળ સેટ થયા પછી સામાન્ય રીતે નીચેના પાંદડા પર સેપ્ટોરિયાના પાંદડાના ડાઘ દેખાય છે. \n\n</br>
+    </string>
+
+    <string name="TomatoSpidermites">
+        <br>As the summer heat continues, it is common to see spider mites on commercial and home-grown tomatoes.
+            Heat, drought, water stress, the presence of a large number of weeds, and incorrect use of insecticides can lead to high buildup of mites on tomatoes. \n\n</br>
+
+        <br>जैसे-जैसे गर्मी जारी रहती है, वाणिज्यिक और घरेलू टमाटरों पर मकड़ी के कण देखना आम बात है।
+        गर्मी, सूखा, पानी की कमी, बड़ी संख्या में खरपतवारों की उपस्थिति और कीटनाशकों के गलत उपयोग से टमाटर पर घुन का निर्माण हो सकता है। \n\n</br>
+
+        <br>उन्हाळ्यात उष्णता सुरू असताना, व्यावसायिक आणि घरगुती टोमॅटोवर स्पायडर माइट्स दिसणे सामान्य आहे.
+        उष्णता, दुष्काळ, पाण्याचा ताण, मोठ्या प्रमाणात तणांची उपस्थिती आणि कीटकनाशकांचा चुकीचा वापर यामुळे टोमॅटोवर माइट्स जास्त प्रमाणात जमा होतात. \n\n</br>
+
+        <br>જેમ જેમ ઉનાળાની ગરમી ચાલુ રહે છે તેમ, કોમર્શિયલ અને ઘરે ઉગાડવામાં આવેલા ટામેટાં પર સ્પાઈડર જીવાત જોવા મળે છે.
+        ગરમી, દુષ્કાળ, પાણીનો તાણ, મોટી સંખ્યામાં નીંદણની હાજરી અને જંતુનાશકોનો ખોટો ઉપયોગ ટામેટાં પર જીવાતનું ઉચ્ચ નિર્માણ તરફ દોરી શકે છે. \n\n</br>
+    </string>
+
+    <string name="TomatoTargetSpot"><br>Target spot is often a problem on tomatoes in Florida. The disease is caused by the fungus Corynespora cassiicola.
+        Target spot is frequently misdiagnosed as in its early stages as symptoms are difficult to recognize and can be confused with bacterial spot and early blight. \n\n</br>
+
+        <br>फ्लोरिडा में टमाटर पर टारगेट स्पॉट अक्सर एक समस्या होती है। यह रोग कवक Corynespora cassiicola के कारण होता है।
+        लक्ष्य स्थान का अक्सर गलत निदान किया जाता है क्योंकि इसके प्रारंभिक चरण में लक्षणों को पहचानना मुश्किल होता है और इसे बैक्टीरियल स्पॉट और शुरुआती ब्लाइट के साथ भ्रमित किया जा सकता है। \n\n</br>
+
+        <br>फ्लोरिडामध्ये टोमॅटोवर टार्गेट स्पॉट ही समस्या असते. हा रोग कोरीनेस्पोरा कॅसिकोला या बुरशीमुळे होतो.
+        टार्गेट स्पॉटचे प्राथमिक अवस्थेत वारंवार चुकीचे निदान केले जाते कारण लक्षणे ओळखणे कठीण असते आणि ते जिवाणू स्पॉट आणि लवकर येणार्‍या ब्लाइटमुळे गोंधळून जाऊ शकतात. \n\n</br>
+
+        <br>ફ્લોરિડામાં ટામેટાં પર ટાર્ગેટ સ્પોટ ઘણીવાર સમસ્યા છે. આ રોગ કોરીનેસ્પોરા કેસીકોલા નામની ફૂગથી થાય છે.
+        ટાર્ગેટ સ્પોટનું તેના પ્રારંભિક તબક્કામાં વારંવાર ખોટું નિદાન કરવામાં આવે છે કારણ કે લક્ષણો ઓળખવા મુશ્કેલ છે અને તે બેક્ટેરિયલ સ્પોટ અને પ્રારંભિક બ્લાઇટ સાથે મૂંઝવણમાં આવી શકે છે. \n\n</br>
+    </string>
+
+    <string name="TomatoYellowleafcurl"><br>Tomato yellow leaf curl virus is a species in the genus Begomovirus and family Geminiviridae.
+        Tomato yellow leaf curl virus (TYLCV) infection induces severe symptoms on tomato plants and causes serious yield losses worldwide.
+        TYLCV is persistently transmitted by the sweetpotato whitefly, Bemisia tabaci (Gennadius). \n\n</br>
+
+        <br>टमाटर पीले पत्ते कर्ल वायरस जीनस बेगोमोवायरस और परिवार जेमिनीविरिडे में एक प्रजाति है।
+        टोमैटो येलो लीफ कर्ल वायरस (TYLCV) संक्रमण टमाटर के पौधों पर गंभीर लक्षण पैदा करता है और दुनिया भर में गंभीर उपज हानि का कारण बनता है।
+        TYLCV लगातार शकरकंद की सफेद मक्खी, बेमिसिया तबासी (गेनाडियस) द्वारा प्रेषित होता है। \n\n</br>
+
+        <br>टोमॅटोच्या पिवळ्या पानांचा कर्ल विषाणू ही बेगोमोव्हायरस आणि जेमिनिव्हिरिडे कुटुंबातील एक प्रजाती आहे.
+        टोमॅटो यलो लीफ कर्ल व्हायरस (TYLCV) संसर्गामुळे टोमॅटोच्या झाडांवर गंभीर लक्षणे निर्माण होतात आणि त्यामुळे जगभरातील उत्पन्नाचे गंभीर नुकसान होते.
+        टीवायएलसीव्हीचा प्रसार स्वीटपोटाटो व्हाईटफ्लाय, बेमिसिया तबेसी (जेनेडियस) द्वारे होतो. \n\n</br>
+
+        <br>ટોમેટો યલો લીફ કર્લ વાયરસ એ બેગોમોવાયરસ અને કુટુંબ જેમિનીવિરિડે જીનસની એક પ્રજાતિ છે.
+        ટોમેટો યલો લીફ કર્લ વાયરસ (TYLCV) ચેપ ટમેટાના છોડ પર ગંભીર લક્ષણો પેદા કરે છે અને વિશ્વભરમાં ઉપજમાં ગંભીર નુકશાનનું કારણ બને છે.
+        TYLCV શીટપોટેટો વ્હાઇટફ્લાય, બેમિસિયા તાબેસી (જેનાડીયસ) દ્વારા સતત પ્રસારિત થાય છે. \n\n</br>
+    </string>
+
+    <string name="MosaicVirus"><br>A mosaic virus is any virus that causes infected plant foliage to have a mottled appearance.
+        Such viruses come from a variety of unrelated lineages and consequently there is no taxon that unites all mosaic viruses.
+        Mosaic symptoms may be masked or latent, especially at temperatures above 27 °C (81 °F), and are sometimes confused with nutrient deficiency or herbicide injury.
+        The causal viruses are spread by aphids and other insects, mites, fungi, nematodes, and contact; pollen and seeds can carry the infection as well. \n\n</br>
+
+        <br>मोज़ेक वायरस कोई भी वायरस है जो संक्रमित पौधे के पत्ते को धब्बेदार रूप देता है।
+        इस तरह के वायरस विभिन्न प्रकार की असंबंधित वंशावली से आते हैं और परिणामस्वरूप कोई टैक्सोन नहीं है जो सभी मोज़ेक वायरस को एकजुट करता है।
+        मोज़ेक के लक्षण छिपे या गुप्त हो सकते हैं, विशेष रूप से 27 डिग्री सेल्सियस (81 डिग्री फारेनहाइट) से ऊपर के तापमान पर, और कभी-कभी पोषक तत्वों की कमी या जड़ी-बूटियों की चोट से भ्रमित होते हैं।
+        कारण विषाणु एफिड्स और अन्य कीड़ों, घुन, कवक, सूत्रकृमि, और संपर्क द्वारा फैलते हैं; पराग और बीज भी संक्रमण ले जा सकते हैं। \n\n</br>
+
+        <br>मोज़ेक विषाणू हा कोणताही विषाणू आहे ज्यामुळे संक्रमित झाडाची पाने चिवट व लकाकणारा पारदर्शक कागद दिसायला लागतात.
+        असे विषाणू विविध असंबंधित वंशांमधून येतात आणि परिणामी सर्व मोज़ेक विषाणूंना एकत्र करणारे कोणतेही वर्गीकरण नाही.
+        मोझॅकची लक्षणे मुखवटा घातलेली किंवा गुप्त असू शकतात, विशेषत: 27 °C (81 °F) पेक्षा जास्त तापमानात, आणि काहीवेळा ते पोषक तत्वांची कमतरता किंवा तणनाशकांच्या दुखापतीने गोंधळलेले असतात.
+        कारक विषाणू ऍफिड्स आणि इतर कीटक, माइट्स, बुरशी, नेमाटोड्स आणि संपर्काद्वारे पसरतात; परागकण आणि बिया देखील संसर्ग करू शकतात. \n\n</br>
+
+        <br>મોઝેક વાયરસ એ કોઈપણ વાયરસ છે જે ચેપગ્રસ્ત છોડના પર્ણસમૂહને ચિત્તદાર દેખાવનું કારણ બને છે.
+        આવા વાઈરસ વિવિધ અસંબંધિત વંશમાંથી આવે છે અને પરિણામે બધા મોઝેક વાયરસને એકીકૃત કરતું કોઈ વર્ગીકરણ નથી.
+        ખાસ કરીને 27 °C (81 °F) થી ઉપરના તાપમાને, મોઝેઇક લક્ષણો છવાયેલા અથવા ગુપ્ત હોઈ શકે છે, અને કેટલીકવાર પોષક તત્ત્વોની ઉણપ અથવા હર્બિસાઇડ ઇજા સાથે મૂંઝવણમાં હોય છે.
+        કારણભૂત વાયરસ એફિડ્સ અને અન્ય જંતુઓ, જીવાત, ફૂગ, નેમાટોડ્સ અને સંપર્ક દ્વારા ફેલાય છે; પરાગ અને બીજ પણ ચેપ વહન કરી શકે છે. \n\n</br>
+    </string>
+
+    <string name="TomatoHealthy"><br>Tomatoes are the major dietary source of the antioxidant lycopene, which has been linked to many health benefits, including reduced risk of heart disease and cancer.
+        They are also a great source of vitamin C, potassium, folate, and vitamin K. \n\n</br>
+
+        <br>टमाटर एंटीऑक्सिडेंट लाइकोपीन का प्रमुख आहार स्रोत है, जिसे हृदय रोग और कैंसर के कम जोखिम सहित कई स्वास्थ्य लाभों से जोड़ा गया है।
+        वे विटामिन सी, पोटेशियम, फोलेट और विटामिन के का भी एक बड़ा स्रोत हैं। \n\n</br>
+
+        <br>टोमॅटो हे अँटिऑक्सिडंट लाइकोपीनचे प्रमुख आहार स्रोत आहेत, ज्याचा हृदयविकार आणि कर्करोगाचा धोका कमी करण्यासह अनेक आरोग्य फायद्यांशी जोडलेले आहे.
+        ते व्हिटॅमिन सी, पोटॅशियम, फोलेट आणि व्हिटॅमिन केचे देखील उत्तम स्रोत आहेत. \n\n</br>
+
+        <br>ટામેટાં એ એન્ટીઑકિસડન્ટ લાઇકોપીનનો મુખ્ય આહાર સ્ત્રોત છે, જે હૃદય રોગ અને કેન્સરનું જોખમ ઘટાડવા સહિત ઘણા સ્વાસ્થ્ય લાભો સાથે સંકળાયેલું છે.
+        તેઓ વિટામીન સી, પોટેશિયમ, ફોલેટ અને વિટામીન K નો પણ ઉત્તમ સ્ત્રોત છે. \n\n</br>
+    </string>
+
+
+    <!--take string name from mainactivity classes without space-->
+    <string-array name="disease">
+        <item>Bacterial Spot</item>
+        <item>Tomato Early Blight</item>
+        <item>Tomato Late Blight</item>
+        <item>Tomato Leaf Mold</item>
+        <item>Septoria Leaf Spot</item>
+        <item>Tomato Spider mites</item>
+        <item>Tomato Target Spot</item>
+        <item>Tomato Yellow leaf curl</item>
+        <item>Mosaic Virus</item>
+        <item>Tomato Healthy</item>
+    </string-array>
+    <string name="title_activity_navigation_drawer">navigation_drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--take string name from mainactivity classes with space-->
+
+
+    <string name="NavigationName">WELCOME</string>
+    <string name="Developer_names"><b><u>Developers:-</u></b> Aaditya Chaudhari, Amber Desai, Vedant Lotia</string>
+
+    <string name="Developers">
+        Hello Everyone, Greetings. We are students of ITM Universe(ITMU) affiliated by Gujarat Technological University(GTU) and we have built this app as our final semester project to make the work of farmers more effective. Our app detects different kind of diseases of tomato leaf so that farmers can prevent it from spreading and can also find the cure.\n\n
+    </string>
+    <string name="Whoarewe"><u>Who Are We?\n</u></string>
+    <string name="contactus"><u>Contact US\n</u></string>
+    <string name="ContactUs">
+        aadityachaudhari17@gmail.com
+        ads.amber1011@gmail.com
+        vedantlotia007@gmail.com
+    </string>
+    <string name="title_activity_home_fragment_try">home_fragment_try</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
